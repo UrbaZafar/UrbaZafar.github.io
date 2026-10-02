@@ -16,7 +16,7 @@ const cx = W / 2, cy = H / 2, R = 195;
 const skills = [
   { label: 'Python', image: 'logos/python.png' },
   { label: 'R', image: 'logos/r.png' },
-  { label: 'SQL', image: 'logos/sql.png' },
+  { label: 'SQL', image: 'logos/SQL.png' },
   { label: 'Linux', image: 'logos/linux.png' },
   { label: 'Git', image: 'logos/git.png' },
   { label: 'PyTorch', image: 'logos/pytorch.png' },
